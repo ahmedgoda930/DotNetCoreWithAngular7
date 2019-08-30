@@ -1,0 +1,14 @@
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\bin\Debug\netcoreapp2.2\CRUD.deps.json
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\bin\Debug\netcoreapp2.2\CRUD.runtimeconfig.json
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\bin\Debug\netcoreapp2.2\CRUD.runtimeconfig.dev.json
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\bin\Debug\netcoreapp2.2\CRUD.dll
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\bin\Debug\netcoreapp2.2\CRUD.pdb
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.csprojAssemblyReference.cache
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.csproj.CoreCompileInputs.cache
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.RazorAssemblyInfo.cache
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.RazorAssemblyInfo.cs
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.AssemblyInfoInputs.cache
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.AssemblyInfo.cs
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.RazorTargetAssemblyInfo.cache
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.dll
+S:\Ahmed Goda\Angular7\BackEnd\MainCRUDOperation\CRUD\obj\Debug\netcoreapp2.2\CRUD.pdb
